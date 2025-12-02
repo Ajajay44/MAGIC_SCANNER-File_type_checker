@@ -51,3 +51,6 @@ Follow the on-screen prompt to enter the path of the file you want to analyze.
 ## Demo Screenshots
 ![Demo Screenshots](<Screenshot 2025-12-02 131252-1.png>)
 
+
+![Demo Screenshots](<Screenshot 2025-12-02 131222-1.png>)
+
