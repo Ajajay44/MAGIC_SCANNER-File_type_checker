@@ -46,4 +46,5 @@ python magic_scanner.py
 
 Follow the on-screen prompt to enter the path of the file you want to analyze.
 
-![alt text](<Screenshot 2025-12-02 131252-1.png>)
+
+![Demo Screenshots](<Screenshot 2025-12-02 131252-1.png>)
