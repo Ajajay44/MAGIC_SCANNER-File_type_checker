@@ -42,6 +42,13 @@ Usage:
 
 Run the script directly. It will launch an interactive dashboard.
 
+
+SCREENSHOTS:
+
+<img width="799" height="553" alt="Screenshot 2025-12-02 131252" src="https://github.com/user-attachments/assets/3074a2a1-1442-49f0-8636-60a0ebf8b79d" />
+
+
 python magic_scanner.py
+
 
 Follow the on-screen prompt to enter the path of the file you want to analyze.
